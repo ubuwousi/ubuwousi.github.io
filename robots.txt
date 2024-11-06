@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ubuwousi.github.io/Blt/sitemap_index.txt
+Sitemap: https://ubuwousi.github.io/KrN/sitemap_index.txt
+Sitemap: https://ubuwousi.github.io/Ovg/sitemap_index.txt
+Sitemap: https://ubuwousi.github.io/Rxs/sitemap_index.txt
